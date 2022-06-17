@@ -1,0 +1,14 @@
+[
+  {
+    "package": "bioimagetools",
+    "oncran": true
+  },
+  {
+    "package": "cmR",
+    "oncran": true
+  },
+  {
+    "package": "nucim",
+    "oncran": true
+  }
+]
