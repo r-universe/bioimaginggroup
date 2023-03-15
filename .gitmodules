@@ -8,13 +8,13 @@
 	url = https://github.com/bioimaginggroup/bioimagetools
 	shallow = true
 	registered = true
-[submodule "cmR"]
-	path = cmR
-	url = https://github.com/bioimaginggroup/cmr
-	shallow = true
-	registered = true
 [submodule "nucim"]
 	path = nucim
 	url = https://github.com/bioimaginggroup/nucim
+	shallow = true
+	registered = true
+[submodule "cmR"]
+	path = cmR
+	url = https://github.com/bioimaginggroup/cmr
 	shallow = true
 	registered = true

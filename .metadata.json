@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "cmR",
+    "package": "nucim",
     "oncran": true
   },
   {
-    "package": "nucim",
+    "package": "cmR",
     "oncran": true
   }
 ]
